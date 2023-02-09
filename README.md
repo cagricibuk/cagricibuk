@@ -1,6 +1,6 @@
 <h2>GitHub Stats</h2>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagricibuk&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagricibuk&langs_count=8&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api?username=cagricibuk&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
 
 <p align="center">
